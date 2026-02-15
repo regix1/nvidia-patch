@@ -1,0 +1,1791 @@
+[
+    {
+        "label": "urllib.request",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.request",
+        "description": "urllib.request",
+        "detail": "urllib.request",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.error",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.error",
+        "description": "urllib.error",
+        "detail": "urllib.error",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.parse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "codecs",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "codecs",
+        "description": "codecs",
+        "detail": "codecs",
+        "documentation": {}
+    },
+    {
+        "label": "enum",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "enum",
+        "description": "enum",
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "IntEnum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "posixpath",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "posixpath",
+        "description": "posixpath",
+        "detail": "posixpath",
+        "documentation": {}
+    },
+    {
+        "label": "gzip",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "gzip",
+        "description": "gzip",
+        "detail": "gzip",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "contextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "itertools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "itertools",
+        "description": "itertools",
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "groupby",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "groupby",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "Template",
+        "importPath": "string",
+        "description": "string",
+        "isExtraImport": true,
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "Template",
+        "importPath": "string",
+        "description": "string",
+        "isExtraImport": true,
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "Template",
+        "importPath": "string",
+        "description": "string",
+        "isExtraImport": true,
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "pprint",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pprint",
+        "description": "pprint",
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "collections",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "collections",
+        "description": "collections",
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "smtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "smtplib",
+        "description": "smtplib",
+        "detail": "smtplib",
+        "documentation": {}
+    },
+    {
+        "label": "ssl",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ssl",
+        "description": "ssl",
+        "detail": "ssl",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "importlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "importlib",
+        "description": "importlib",
+        "detail": "importlib",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "functools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "functools",
+        "description": "functools",
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "os.path",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.path",
+        "description": "os.path",
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "OSKind",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "WinSeries",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "DATAFILE_PATH",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "\\",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "OSKind",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "WinSeries",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "DATAFILE_PATH",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "\\",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "WinSeries",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "DATAFILE_PATH",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "LINUX_README_PATH",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "\\",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATE_PATH",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "ENCODING",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "WinSeries",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "find_driver",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "linux_driver_key",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "windows_driver_key",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "find_driver",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "linux_driver_key",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "windows_driver_key",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "find_driver",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "linux_driver_key",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "windows_driver_key",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "\\",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "xml.etree.ElementTree",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "xml.etree.ElementTree",
+        "description": "xml.etree.ElementTree",
+        "detail": "xml.etree.ElementTree",
+        "documentation": {}
+    },
+    {
+        "label": "unhexlify",
+        "importPath": "binascii",
+        "description": "binascii",
+        "isExtraImport": true,
+        "detail": "binascii",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_cuda_downloads",
+        "description": "tools.nv-driver-locator.get_cuda_downloads",
+        "peekOfCode": "def parse_args():\n    import argparse\n    def check_positive_float(val):\n        val = float(val)\n        if val <= 0:\n            raise ValueError(\"Value %s is not valid positive float\" %\n                             (repr(val),))\n        return val\n    parser = argparse.ArgumentParser(\n        description=\"Retrieves info about latest NVIDIA drivers from \"",
+        "detail": "tools.nv-driver-locator.get_cuda_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "issue_request",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_cuda_downloads",
+        "description": "tools.nv-driver-locator.get_cuda_downloads",
+        "peekOfCode": "def issue_request(timeout=10):\n    ENDPOINT = 'https://developer.nvidia.com/cuda-toolkit-archive'\n    http_req = urllib.request.Request(\n        ENDPOINT,\n        data=None,\n        headers={\n            'User-Agent': USER_AGENT\n        }\n    )\n    with urllib.request.urlopen(http_req, None, timeout) as resp:",
+        "detail": "tools.nv-driver-locator.get_cuda_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "get_latest_cuda_tk",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_cuda_downloads",
+        "description": "tools.nv-driver-locator.get_cuda_downloads",
+        "peekOfCode": "def get_latest_cuda_tk(*, timeout=10):\n    doc = issue_request(timeout)\n    soup = BeautifulSoup(doc, 'html.parser')\n    res = soup.find('strong', string=re.compile(r'^\\s*latest\\s+release\\s*$', re.I)).\\\n        parent.find('a', string=re.compile(r'^\\s*cuda\\s+toolkit\\s+.*$', re.I)).\\\n        string\n    return res\ndef main():\n    import pprint\n    args = parse_args()",
+        "detail": "tools.nv-driver-locator.get_cuda_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_cuda_downloads",
+        "description": "tools.nv-driver-locator.get_cuda_downloads",
+        "peekOfCode": "def main():\n    import pprint\n    args = parse_args()\n    print(get_latest_cuda_tk(timeout=args.timeout))\nif __name__ == '__main__':\n    main()",
+        "detail": "tools.nv-driver-locator.get_cuda_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "USER_AGENT",
+        "kind": 5,
+        "importPath": "tools.nv-driver-locator.get_cuda_downloads",
+        "description": "tools.nv-driver-locator.get_cuda_downloads",
+        "peekOfCode": "USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64; rv:65.0) '\\\n             'Gecko/20100101 Firefox/65.0'\ndef parse_args():\n    import argparse\n    def check_positive_float(val):\n        val = float(val)\n        if val <= 0:\n            raise ValueError(\"Value %s is not valid positive float\" %\n                             (repr(val),))\n        return val",
+        "detail": "tools.nv-driver-locator.get_cuda_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "upstream_version",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_deb_drivers",
+        "description": "tools.nv-driver-locator.get_deb_drivers",
+        "peekOfCode": "def upstream_version(version):\n\tepoch, delim, tail = version.partition(':')\n\tversion = tail if delim else epoch\n\treturn version.partition('-')[0]\n@contextmanager\ndef packages_reader(url, timeout):\n    http_req = urllib.request.Request(\n        url,\n        data=None,\n        headers={",
+        "detail": "tools.nv-driver-locator.get_deb_drivers",
+        "documentation": {}
+    },
+    {
+        "label": "packages_reader",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_deb_drivers",
+        "description": "tools.nv-driver-locator.get_deb_drivers",
+        "peekOfCode": "def packages_reader(url, timeout):\n    http_req = urllib.request.Request(\n        url,\n        data=None,\n        headers={\n            'User-Agent': USER_AGENT\n        }\n    )\n    with urllib.request.urlopen(http_req, None, timeout) as resp:\n        if url.endswith('.gz') or resp.headers.get('Content-Type', '') == 'application/x-gzip':",
+        "detail": "tools.nv-driver-locator.get_deb_drivers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_packages",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_deb_drivers",
+        "description": "tools.nv-driver-locator.get_deb_drivers",
+        "peekOfCode": "def parse_packages(reader):\n    for k, g in itertools.groupby(reader, lambda s: bool(s.strip())):\n        if not k:\n            continue\n        pkg = dict()\n        current_key = None\n        current_val = None\n        for line in g:\n            if line[0] in string.whitespace:\n                # Continuation",
+        "detail": "tools.nv-driver-locator.get_deb_drivers",
+        "documentation": {}
+    },
+    {
+        "label": "get_deb_versions",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_deb_drivers",
+        "description": "tools.nv-driver-locator.get_deb_drivers",
+        "peekOfCode": "def get_deb_versions(*args, **kwargs):\n\treturn list(set(_get_deb_versions(*args, **kwargs)))\ndef parse_args():\n    import argparse\n    def check_positive_float(val):\n        val = float(val)\n        if val <= 0:\n            raise ValueError(\"Value %s is not valid positive float\" %\n                             (repr(val),))\n        return val",
+        "detail": "tools.nv-driver-locator.get_deb_drivers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_deb_drivers",
+        "description": "tools.nv-driver-locator.get_deb_drivers",
+        "peekOfCode": "def parse_args():\n    import argparse\n    def check_positive_float(val):\n        val = float(val)\n        if val <= 0:\n            raise ValueError(\"Value %s is not valid positive float\" %\n                             (repr(val),))\n        return val\n    parser = argparse.ArgumentParser(\n        description=\"Retrieves info about latest NVIDIA drivers available in \"",
+        "detail": "tools.nv-driver-locator.get_deb_drivers",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_deb_drivers",
+        "description": "tools.nv-driver-locator.get_deb_drivers",
+        "peekOfCode": "def main():\n    args = parse_args()\n    drv = get_deb_versions(url=args.url,\n                           name=args.name,\n                           timeout=args.timeout)\n    if drv is None:\n        print(\"NOT FOUND\")\n        sys.exit(3)\n    if False: #not args.raw:\n        print(\"Version: %s\" % (drv['DriverAttributes']['Version'],))",
+        "detail": "tools.nv-driver-locator.get_deb_drivers",
+        "documentation": {}
+    },
+    {
+        "label": "USER_AGENT",
+        "kind": 5,
+        "importPath": "tools.nv-driver-locator.get_deb_drivers",
+        "description": "tools.nv-driver-locator.get_deb_drivers",
+        "peekOfCode": "USER_AGENT = 'Debian APT-HTTP/1.3 (1.6.6)'\nDEFAULT_REPO = \"https://developer.download.nvidia.com/\"\\\n    \"compute/cuda/repos/ubuntu1804/x86_64/Packages.gz\"\nDEFAULT_REGEX = '^cuda-drivers$'\nENCODING = 'utf-8-sig'\nDriverEntry = collections.namedtuple('DriverEntry', ('name', 'version'))\ndef upstream_version(version):\n\tepoch, delim, tail = version.partition(':')\n\tversion = tail if delim else epoch\n\treturn version.partition('-')[0]",
+        "detail": "tools.nv-driver-locator.get_deb_drivers",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_REPO",
+        "kind": 5,
+        "importPath": "tools.nv-driver-locator.get_deb_drivers",
+        "description": "tools.nv-driver-locator.get_deb_drivers",
+        "peekOfCode": "DEFAULT_REPO = \"https://developer.download.nvidia.com/\"\\\n    \"compute/cuda/repos/ubuntu1804/x86_64/Packages.gz\"\nDEFAULT_REGEX = '^cuda-drivers$'\nENCODING = 'utf-8-sig'\nDriverEntry = collections.namedtuple('DriverEntry', ('name', 'version'))\ndef upstream_version(version):\n\tepoch, delim, tail = version.partition(':')\n\tversion = tail if delim else epoch\n\treturn version.partition('-')[0]\n@contextmanager",
+        "detail": "tools.nv-driver-locator.get_deb_drivers",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_REGEX",
+        "kind": 5,
+        "importPath": "tools.nv-driver-locator.get_deb_drivers",
+        "description": "tools.nv-driver-locator.get_deb_drivers",
+        "peekOfCode": "DEFAULT_REGEX = '^cuda-drivers$'\nENCODING = 'utf-8-sig'\nDriverEntry = collections.namedtuple('DriverEntry', ('name', 'version'))\ndef upstream_version(version):\n\tepoch, delim, tail = version.partition(':')\n\tversion = tail if delim else epoch\n\treturn version.partition('-')[0]\n@contextmanager\ndef packages_reader(url, timeout):\n    http_req = urllib.request.Request(",
+        "detail": "tools.nv-driver-locator.get_deb_drivers",
+        "documentation": {}
+    },
+    {
+        "label": "ENCODING",
+        "kind": 5,
+        "importPath": "tools.nv-driver-locator.get_deb_drivers",
+        "description": "tools.nv-driver-locator.get_deb_drivers",
+        "peekOfCode": "ENCODING = 'utf-8-sig'\nDriverEntry = collections.namedtuple('DriverEntry', ('name', 'version'))\ndef upstream_version(version):\n\tepoch, delim, tail = version.partition(':')\n\tversion = tail if delim else epoch\n\treturn version.partition('-')[0]\n@contextmanager\ndef packages_reader(url, timeout):\n    http_req = urllib.request.Request(\n        url,",
+        "detail": "tools.nv-driver-locator.get_deb_drivers",
+        "documentation": {}
+    },
+    {
+        "label": "DriverEntry",
+        "kind": 5,
+        "importPath": "tools.nv-driver-locator.get_deb_drivers",
+        "description": "tools.nv-driver-locator.get_deb_drivers",
+        "peekOfCode": "DriverEntry = collections.namedtuple('DriverEntry', ('name', 'version'))\ndef upstream_version(version):\n\tepoch, delim, tail = version.partition(':')\n\tversion = tail if delim else epoch\n\treturn version.partition('-')[0]\n@contextmanager\ndef packages_reader(url, timeout):\n    http_req = urllib.request.Request(\n        url,\n        data=None,",
+        "detail": "tools.nv-driver-locator.get_deb_drivers",
+        "documentation": {}
+    },
+    {
+        "label": "\tversion",
+        "kind": 5,
+        "importPath": "tools.nv-driver-locator.get_deb_drivers",
+        "description": "tools.nv-driver-locator.get_deb_drivers",
+        "peekOfCode": "\tversion = tail if delim else epoch\n\treturn version.partition('-')[0]\n@contextmanager\ndef packages_reader(url, timeout):\n    http_req = urllib.request.Request(\n        url,\n        data=None,\n        headers={\n            'User-Agent': USER_AGENT\n        }",
+        "detail": "tools.nv-driver-locator.get_deb_drivers",
+        "documentation": {}
+    },
+    {
+        "label": "OS",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.get_nvidia_downloads",
+        "description": "tools.nv-driver-locator.get_nvidia_downloads",
+        "peekOfCode": "class OS(enum.Enum):\n    Linux_32 = 11\n    Linux_64 = 12\n    Windows7_32 = 18\n    Windows7_64 = 19\n    Windows10_32 = 56\n    Windows10_64 = 57\n    WindowsServer2012R2_32 = 32\n    WindowsServer2012R2_64 = 44\n    WindowsServer2016 = 74",
+        "detail": "tools.nv-driver-locator.get_nvidia_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "CertLevel",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.get_nvidia_downloads",
+        "description": "tools.nv-driver-locator.get_nvidia_downloads",
+        "peekOfCode": "class CertLevel(enum.Enum):\n    All = ''\n    Beta = 0\n    Certified = 1\n    ODE = 2\n    QNF = 3\n    CRD = 4\n    def __str__(self):\n        return self.name\n    def __contains__(self, e):",
+        "detail": "tools.nv-driver-locator.get_nvidia_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.get_nvidia_downloads",
+        "description": "tools.nv-driver-locator.get_nvidia_downloads",
+        "peekOfCode": "class Product(enum.Enum):\n    GeForce = (107, 879)\n    GeForceMobile = (111, 890)\n    Quadro = (73, 844)\n    QuadroMobile = (74, 875)\n    Tesla = (110, 883)\n    def __str__(self):\n        return self.name\n    def __contains__(self, e):\n        return e in self.__members__",
+        "detail": "tools.nv-driver-locator.get_nvidia_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "DriverType",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.get_nvidia_downloads",
+        "description": "tools.nv-driver-locator.get_nvidia_downloads",
+        "peekOfCode": "class DriverType(enum.Enum):\n    Standard = 0\n    DCH = 1\n    def __str__(self):\n        return self.name\n    def __contains__(self, e):\n        return e in self.__members__\n@enum.unique\nclass DriverLanguage(enum.Enum):\n    English = 1",
+        "detail": "tools.nv-driver-locator.get_nvidia_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "DriverLanguage",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.get_nvidia_downloads",
+        "description": "tools.nv-driver-locator.get_nvidia_downloads",
+        "peekOfCode": "class DriverLanguage(enum.Enum):\n    English = 1\n    def __str__(self):\n        return self.name\n    def __contains__(self, e):\n        return e in self.__members__\n@enum.unique\nclass CUDAToolkitVersion(enum.Enum):\n    Nothing = 0\n    v10_0 = 20",
+        "detail": "tools.nv-driver-locator.get_nvidia_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "CUDAToolkitVersion",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.get_nvidia_downloads",
+        "description": "tools.nv-driver-locator.get_nvidia_downloads",
+        "peekOfCode": "class CUDAToolkitVersion(enum.Enum):\n    Nothing = 0\n    v10_0 = 20\n    v10_1 = 21\n    def __str__(self):\n        return self.name\n    def __contains__(self, e):\n        return e in self.__members__\ndef parse_args():\n    import argparse",
+        "detail": "tools.nv-driver-locator.get_nvidia_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_nvidia_downloads",
+        "description": "tools.nv-driver-locator.get_nvidia_downloads",
+        "peekOfCode": "def parse_args():\n    import argparse\n    def check_positive_float(val):\n        val = float(val)\n        if val <= 0:\n            raise ValueError(\"Value %s is not valid positive float\" %\n                             (repr(val),))\n        return val\n    parser = argparse.ArgumentParser(\n        description=\"Retrieves info about latest NVIDIA drivers from \"",
+        "detail": "tools.nv-driver-locator.get_nvidia_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_url",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_nvidia_downloads",
+        "description": "tools.nv-driver-locator.get_nvidia_downloads",
+        "peekOfCode": "def fetch_url(url, timeout=10):\n    http_req = urllib.request.Request(\n        url,\n        data=None,\n        headers={\n            'User-Agent': USER_AGENT\n        }\n    )\n    with urllib.request.urlopen(http_req, None, timeout) as resp:\n        coding = resp.headers.get_content_charset()",
+        "detail": "tools.nv-driver-locator.get_nvidia_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "issue_request",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_nvidia_downloads",
+        "description": "tools.nv-driver-locator.get_nvidia_downloads",
+        "peekOfCode": "def issue_request(query_obj, timeout=10):\n    ENDPOINT = 'https://www.nvidia.com/Download/processFind.aspx'\n    url = ENDPOINT + '?' + urllib.parse.urlencode(query_obj)\n    return fetch_url(url, timeout)\ndef parse_download_page(url):\n    try:\n        body = fetch_url(url)\n        soup = BeautifulSoup(body, 'html.parser')\n    except Exception as exc:\n        print('parse_download_page error: %s' % (str(exc),), file=sys.stderr)",
+        "detail": "tools.nv-driver-locator.get_nvidia_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "parse_download_page",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_nvidia_downloads",
+        "description": "tools.nv-driver-locator.get_nvidia_downloads",
+        "peekOfCode": "def parse_download_page(url):\n    try:\n        body = fetch_url(url)\n        soup = BeautifulSoup(body, 'html.parser')\n    except Exception as exc:\n        print('parse_download_page error: %s' % (str(exc),), file=sys.stderr)\n        return None\n    download_div = soup.find('div', id='dnldBttns')\n    if download_div is None:\n        download_div = soup.find('div', id='mainContent')",
+        "detail": "tools.nv-driver-locator.get_nvidia_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "parse_product_page",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_nvidia_downloads",
+        "description": "tools.nv-driver-locator.get_nvidia_downloads",
+        "peekOfCode": "def parse_product_page(url):\n    try:\n        body = fetch_url(url)\n        soup = BeautifulSoup(body, 'html.parser')\n    except Exception as exc:\n        print('parse_product_page error: %s' % (str(exc),), file=sys.stderr)\n        return None\n    download_anchor = soup.find('a', attrs={'href': True}, id='lnkDwnldBtn')\n    if download_anchor is None:\n        return None",
+        "detail": "tools.nv-driver-locator.get_nvidia_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "get_drivers",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_nvidia_downloads",
+        "description": "tools.nv-driver-locator.get_nvidia_downloads",
+        "peekOfCode": "def get_drivers(*,\n                os=OS.Linux_64,\n                product=Product.GeForce,\n                certlevel=CertLevel.All,\n                driver_type=DriverType.Standard,\n                lang=DriverLanguage.English,\n                cuda_ver=CUDAToolkitVersion.Nothing,\n                timeout=10):\n    psid, pfid = product.value\n    query = {",
+        "detail": "tools.nv-driver-locator.get_nvidia_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_nvidia_downloads",
+        "description": "tools.nv-driver-locator.get_nvidia_downloads",
+        "peekOfCode": "def main():\n    import pprint\n    args = parse_args()\n    pprint.pprint(get_drivers(os=args.os,\n                              product=args.product,\n                              certlevel=args.certification_level,\n                              driver_type=args.dch,\n                              timeout=args.timeout))\nif __name__ == '__main__':\n    main()",
+        "detail": "tools.nv-driver-locator.get_nvidia_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "USER_AGENT",
+        "kind": 5,
+        "importPath": "tools.nv-driver-locator.get_nvidia_downloads",
+        "description": "tools.nv-driver-locator.get_nvidia_downloads",
+        "peekOfCode": "USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64; rv:65.0) '\\\n             'Gecko/20100101 Firefox/65.0'\nDOWNLOAD_URL_RE = re.compile('.*download\\.nvidia\\.com.*', re.A | re.I)\n@enum.unique\nclass OS(enum.Enum):\n    Linux_32 = 11\n    Linux_64 = 12\n    Windows7_32 = 18\n    Windows7_64 = 19\n    Windows10_32 = 56",
+        "detail": "tools.nv-driver-locator.get_nvidia_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "DOWNLOAD_URL_RE",
+        "kind": 5,
+        "importPath": "tools.nv-driver-locator.get_nvidia_downloads",
+        "description": "tools.nv-driver-locator.get_nvidia_downloads",
+        "peekOfCode": "DOWNLOAD_URL_RE = re.compile('.*download\\.nvidia\\.com.*', re.A | re.I)\n@enum.unique\nclass OS(enum.Enum):\n    Linux_32 = 11\n    Linux_64 = 12\n    Windows7_32 = 18\n    Windows7_64 = 19\n    Windows10_32 = 56\n    Windows10_64 = 57\n    WindowsServer2012R2_32 = 32",
+        "detail": "tools.nv-driver-locator.get_nvidia_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_vulkan_downloads",
+        "description": "tools.nv-driver-locator.get_vulkan_downloads",
+        "peekOfCode": "def parse_args():\n    import argparse\n    def check_positive_float(val):\n        val = float(val)\n        if val <= 0:\n            raise ValueError(\"Value %s is not valid positive float\" %\n                             (repr(val),))\n        return val\n    parser = argparse.ArgumentParser(\n        description=\"Retrieves info about latest NVIDIA Vulkan beta drivers \"",
+        "detail": "tools.nv-driver-locator.get_vulkan_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_url",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_vulkan_downloads",
+        "description": "tools.nv-driver-locator.get_vulkan_downloads",
+        "peekOfCode": "def fetch_url(url, timeout=10):\n    http_req = urllib.request.Request(\n        url,\n        data=None,\n        headers={\n            'User-Agent': USER_AGENT\n        }\n    )\n    with urllib.request.urlopen(http_req, None, timeout) as resp:\n        coding = resp.headers.get_content_charset()",
+        "detail": "tools.nv-driver-locator.get_vulkan_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "get_drivers",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_vulkan_downloads",
+        "description": "tools.nv-driver-locator.get_vulkan_downloads",
+        "peekOfCode": "def get_drivers(*, timeout=10):\n    body = fetch_url(URL)\n    soup = BeautifulSoup(body, 'html.parser')\n    result = []\n    section_start = soup.find('h4', string=re.compile(r'Vulkan Beta Driver Downloads', re.I))\n    section_end = section_start.find_next(\"h4\")\n    for sibling in section_start.find_all_next():\n        if sibling is section_end:\n            break\n        if sibling.name == 'p' and sibling.b is not None:",
+        "detail": "tools.nv-driver-locator.get_vulkan_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.get_vulkan_downloads",
+        "description": "tools.nv-driver-locator.get_vulkan_downloads",
+        "peekOfCode": "def main():\n    import pprint\n    args = parse_args()\n    pprint.pprint(get_drivers(timeout=args.timeout))\nif __name__ == '__main__':\n    main()",
+        "detail": "tools.nv-driver-locator.get_vulkan_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "USER_AGENT",
+        "kind": 5,
+        "importPath": "tools.nv-driver-locator.get_vulkan_downloads",
+        "description": "tools.nv-driver-locator.get_vulkan_downloads",
+        "peekOfCode": "USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64; rv:65.0) '\\\n             'Gecko/20100101 Firefox/65.0'\nURL = 'https://developer.nvidia.com/vulkan-driver'\ndef parse_args():\n    import argparse\n    def check_positive_float(val):\n        val = float(val)\n        if val <= 0:\n            raise ValueError(\"Value %s is not valid positive float\" %\n                             (repr(val),))",
+        "detail": "tools.nv-driver-locator.get_vulkan_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "URL",
+        "kind": 5,
+        "importPath": "tools.nv-driver-locator.get_vulkan_downloads",
+        "description": "tools.nv-driver-locator.get_vulkan_downloads",
+        "peekOfCode": "URL = 'https://developer.nvidia.com/vulkan-driver'\ndef parse_args():\n    import argparse\n    def check_positive_float(val):\n        val = float(val)\n        if val <= 0:\n            raise ValueError(\"Value %s is not valid positive float\" %\n                             (repr(val),))\n        return val\n    parser = argparse.ArgumentParser(",
+        "detail": "tools.nv-driver-locator.get_vulkan_downloads",
+        "documentation": {}
+    },
+    {
+        "label": "serialize_req",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.gfe_get_driver",
+        "description": "tools.nv-driver-locator.gfe_get_driver",
+        "peekOfCode": "def serialize_req(obj):\n    return json.dumps(obj, separators=(',', ':'))\ndef getDispDrvrByDevid(query_obj, timeout=10):\n    ENDPOINT = 'https://gfwsl.geforce.com/nvidia_web_services/' \\\n        'controller.gfeclientcontent.NG.php/' \\\n        'com.nvidia.services.GFEClientContent_NG.getDispDrvrByDevid'\n    url = posixpath.join(ENDPOINT, serialize_req(query_obj))\n    http_req = urllib.request.Request(\n        url,\n        data=None,",
+        "detail": "tools.nv-driver-locator.gfe_get_driver",
+        "documentation": {}
+    },
+    {
+        "label": "getDispDrvrByDevid",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.gfe_get_driver",
+        "description": "tools.nv-driver-locator.gfe_get_driver",
+        "peekOfCode": "def getDispDrvrByDevid(query_obj, timeout=10):\n    ENDPOINT = 'https://gfwsl.geforce.com/nvidia_web_services/' \\\n        'controller.gfeclientcontent.NG.php/' \\\n        'com.nvidia.services.GFEClientContent_NG.getDispDrvrByDevid'\n    url = posixpath.join(ENDPOINT, serialize_req(query_obj))\n    http_req = urllib.request.Request(\n        url,\n        data=None,\n        headers={\n            'User-Agent': USER_AGENT",
+        "detail": "tools.nv-driver-locator.gfe_get_driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_latest_geforce_driver",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.gfe_get_driver",
+        "description": "tools.nv-driver-locator.gfe_get_driver",
+        "peekOfCode": "def get_latest_geforce_driver(*,\n                              notebook=False,\n                              x86_64=True,\n                              os_version=\"10.0\",\n                              os_build=\"17763\",\n                              language=1033,\n                              beta=False,\n                              dch=False,\n                              crd=False,\n                              timeout=10):",
+        "detail": "tools.nv-driver-locator.gfe_get_driver",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.gfe_get_driver",
+        "description": "tools.nv-driver-locator.gfe_get_driver",
+        "peekOfCode": "def parse_args():\n    import argparse\n    def parse_lang(lang):\n        lang = int(lang)\n        if not (0x0 <= lang <= 0xFFFF):\n            raise ValueError(\"Bad language ID\")\n        return lang\n    def check_positive_float(val):\n        val = float(val)\n        if val <= 0:",
+        "detail": "tools.nv-driver-locator.gfe_get_driver",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.gfe_get_driver",
+        "description": "tools.nv-driver-locator.gfe_get_driver",
+        "peekOfCode": "def main():\n    import sys\n    args = parse_args()\n    drv = get_latest_geforce_driver(os_version=args.os_version,\n                                    os_build=args.os_build,\n                                    language=args.language,\n                                    notebook=args.notebook,\n                                    x86_64=(not args._32bit),\n                                    beta=args.beta,\n                                    dch=args.dch,",
+        "detail": "tools.nv-driver-locator.gfe_get_driver",
+        "documentation": {}
+    },
+    {
+        "label": "USER_AGENT",
+        "kind": 5,
+        "importPath": "tools.nv-driver-locator.gfe_get_driver",
+        "description": "tools.nv-driver-locator.gfe_get_driver",
+        "peekOfCode": "USER_AGENT = 'NvBackend/36.0.0.0'\ndef serialize_req(obj):\n    return json.dumps(obj, separators=(',', ':'))\ndef getDispDrvrByDevid(query_obj, timeout=10):\n    ENDPOINT = 'https://gfwsl.geforce.com/nvidia_web_services/' \\\n        'controller.gfeclientcontent.NG.php/' \\\n        'com.nvidia.services.GFEClientContent_NG.getDispDrvrByDevid'\n    url = posixpath.join(ENDPOINT, serialize_req(query_obj))\n    http_req = urllib.request.Request(\n        url,",
+        "detail": "tools.nv-driver-locator.gfe_get_driver",
+        "documentation": {}
+    },
+    {
+        "label": "Mailer",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.mailer",
+        "description": "tools.nv-driver-locator.mailer",
+        "peekOfCode": "class Mailer:\n    def __init__(self, *,\n                 from_addr,\n                 host='localhost',\n                 port=None,\n                 local_hostname=None,\n                 use_ssl=False,\n                 use_starttls=False,\n                 login=None,\n                 password=None,",
+        "detail": "tools.nv-driver-locator.mailer",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.mailer",
+        "description": "tools.nv-driver-locator.mailer",
+        "peekOfCode": "def parse_args():\n    import argparse\n    def check_positive_float(val):\n        val = float(val)\n        if val <= 0:\n            raise ValueError(\"Value %s is not valid positive float\" %\n                             (repr(val),))\n        return val\n    def check_port(val):\n        val = int(val)",
+        "detail": "tools.nv-driver-locator.mailer",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.mailer",
+        "description": "tools.nv-driver-locator.mailer",
+        "peekOfCode": "def main():\n    import sys\n    from email.mime.text import MIMEText\n    args = parse_args()\n    m = Mailer(from_addr=args.from_address,\n               host=args.smtp_host,\n               port=args.smtp_port,\n               local_hostname=args.local_hostname,\n               use_ssl=args.ssl,\n               use_starttls=args.starttls,",
+        "detail": "tools.nv-driver-locator.mailer",
+        "documentation": {}
+    },
+    {
+        "label": "BaseDB",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.nv-driver-locator",
+        "description": "tools.nv-driver-locator.nv-driver-locator",
+        "peekOfCode": "class BaseDB(ABC):\n    @abstractmethod\n    def check_key(self, key):\n        pass\n    @abstractmethod\n    def set_key(self, key, value):\n        pass\nclass FileDB(BaseDB):\n    def __init__(self, workdir):\n        self._ospath = importlib.import_module('os.path')",
+        "detail": "tools.nv-driver-locator.nv-driver-locator",
+        "documentation": {}
+    },
+    {
+        "label": "FileDB",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.nv-driver-locator",
+        "description": "tools.nv-driver-locator.nv-driver-locator",
+        "peekOfCode": "class FileDB(BaseDB):\n    def __init__(self, workdir):\n        self._ospath = importlib.import_module('os.path')\n        self._tempfile = importlib.import_module('tempfile')\n        self._wd = workdir\n        self._test_writable()\n    def _test_writable(self):\n        TEST_STRING = b\"test\"\n        with self._tempfile.NamedTemporaryFile('w+b', 0, dir=self._wd) as f:\n            f.write(TEST_STRING)",
+        "detail": "tools.nv-driver-locator.nv-driver-locator",
+        "documentation": {}
+    },
+    {
+        "label": "Hasher",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.nv-driver-locator",
+        "description": "tools.nv-driver-locator.nv-driver-locator",
+        "peekOfCode": "class Hasher:\n    def __init__(self, key_components):\n        self._key_components = key_components\n    def _eval_key_component(self, obj, component_path):\n        res = obj\n        try:\n            for path_component in component_path:\n                res = res[path_component]\n        except (KeyError, IndexError):\n            return b''",
+        "detail": "tools.nv-driver-locator.nv-driver-locator",
+        "documentation": {}
+    },
+    {
+        "label": "BaseNotifier",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.nv-driver-locator",
+        "description": "tools.nv-driver-locator.nv-driver-locator",
+        "peekOfCode": "class BaseNotifier(ABC):\n    @abstractmethod\n    def notify(self, obj):\n        pass\nclass EmailNotifier(BaseNotifier):\n    def __init__(self, name, *,\n                 from_addr,\n                 to_addrs,\n                 host='localhost',\n                 port=None,",
+        "detail": "tools.nv-driver-locator.nv-driver-locator",
+        "documentation": {}
+    },
+    {
+        "label": "EmailNotifier",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.nv-driver-locator",
+        "description": "tools.nv-driver-locator.nv-driver-locator",
+        "peekOfCode": "class EmailNotifier(BaseNotifier):\n    def __init__(self, name, *,\n                 from_addr,\n                 to_addrs,\n                 host='localhost',\n                 port=None,\n                 local_hostname=None,\n                 use_ssl=False,\n                 use_starttls=False,\n                 login=None,",
+        "detail": "tools.nv-driver-locator.nv-driver-locator",
+        "documentation": {}
+    },
+    {
+        "label": "CommandNotifier",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.nv-driver-locator",
+        "description": "tools.nv-driver-locator.nv-driver-locator",
+        "peekOfCode": "class CommandNotifier(BaseNotifier):\n    def __init__(self, name, *,\n                 cmdline,\n                 timeout=10):\n        self.name = name\n        self._subprocess = importlib.import_module('subprocess')\n        self._cmdline = cmdline\n        self._timeout = timeout\n    def notify(self, obj):\n        proc = self._subprocess.Popen(self._cmdline,",
+        "detail": "tools.nv-driver-locator.nv-driver-locator",
+        "documentation": {}
+    },
+    {
+        "label": "BaseChannel",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.nv-driver-locator",
+        "description": "tools.nv-driver-locator.nv-driver-locator",
+        "peekOfCode": "class BaseChannel(ABC):\n    @abstractmethod\n    def get_latest_drivers(self):\n        pass\nclass GFEClientChannel(BaseChannel):\n    def __init__(self, name, notebook=False,\n                             x86_64=True,\n                             os_version=\"10.0\",\n                             os_build=\"17763\",\n                             language=1033,",
+        "detail": "tools.nv-driver-locator.nv-driver-locator",
+        "documentation": {}
+    },
+    {
+        "label": "GFEClientChannel",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.nv-driver-locator",
+        "description": "tools.nv-driver-locator.nv-driver-locator",
+        "peekOfCode": "class GFEClientChannel(BaseChannel):\n    def __init__(self, name, notebook=False,\n                             x86_64=True,\n                             os_version=\"10.0\",\n                             os_build=\"17763\",\n                             language=1033,\n                             beta=False,\n                             dch=False,\n                             crd=False,\n                             timeout=10):",
+        "detail": "tools.nv-driver-locator.nv-driver-locator",
+        "documentation": {}
+    },
+    {
+        "label": "NvidiaDownloadsChannel",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.nv-driver-locator",
+        "description": "tools.nv-driver-locator.nv-driver-locator",
+        "peekOfCode": "class NvidiaDownloadsChannel(BaseChannel):\n    def __init__(self, name, *,\n                 os=\"Linux_64\",\n                 product=\"GeForce\",\n                 certlevel=\"All\",\n                 driver_type=\"Standard\",\n                 lang=\"English\",\n                 cuda_ver=\"Nothing\",\n                 timeout=10):\n        self.name = name",
+        "detail": "tools.nv-driver-locator.nv-driver-locator",
+        "documentation": {}
+    },
+    {
+        "label": "CudaToolkitDownloadsChannel",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.nv-driver-locator",
+        "description": "tools.nv-driver-locator.nv-driver-locator",
+        "peekOfCode": "class CudaToolkitDownloadsChannel(BaseChannel):\n    def __init__(self, name, *,\n                 timeout=10):\n        self.name = name\n        gcd = importlib.import_module('get_cuda_downloads')\n        self._gcd = gcd\n        self._timeout = timeout\n    def get_latest_drivers(self):\n        latest = self._gcd.get_latest_cuda_tk(timeout=self._timeout)\n        if not latest:",
+        "detail": "tools.nv-driver-locator.nv-driver-locator",
+        "documentation": {}
+    },
+    {
+        "label": "VulkanBetaDownloadsChannel",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.nv-driver-locator",
+        "description": "tools.nv-driver-locator.nv-driver-locator",
+        "peekOfCode": "class VulkanBetaDownloadsChannel(BaseChannel):\n    def __init__(self, name, *,\n                 timeout=10):\n        self.name = name\n        self._timeout = timeout\n        self._gvd = importlib.import_module('get_vulkan_downloads')\n    def get_latest_drivers(self):\n        drivers = self._gvd.get_drivers(timeout=self._timeout)\n        if drivers is None:\n            return",
+        "detail": "tools.nv-driver-locator.nv-driver-locator",
+        "documentation": {}
+    },
+    {
+        "label": "DebRepoChannel",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.nv-driver-locator",
+        "description": "tools.nv-driver-locator.nv-driver-locator",
+        "peekOfCode": "class DebRepoChannel(BaseChannel):\n    def __init__(self, name, *,\n                 url,\n                 pkg_pattern,\n                 driver_name=\"Linux x64 (AMD64/EM64T) Display Driver\",\n                 timeout=10):\n        self.name = name\n        self._gdd = importlib.import_module('get_deb_drivers')\n        self._url = url\n        self._pkg_pattern = pkg_pattern",
+        "detail": "tools.nv-driver-locator.nv-driver-locator",
+        "documentation": {}
+    },
+    {
+        "label": "DriverLocator",
+        "kind": 6,
+        "importPath": "tools.nv-driver-locator.nv-driver-locator",
+        "description": "tools.nv-driver-locator.nv-driver-locator",
+        "peekOfCode": "class DriverLocator:\n    _ret_code = 0\n    def __init__(self, conf):\n        self._logger = logging.getLogger(self.__class__.__name__)\n        self._channels = self._construct_channels(conf['channels'])\n        self._db = self._construct_db(conf['db'])\n        self._hasher = Hasher(conf['key_components'])\n        self._notifiers = self._construct_notifiers(conf['notifiers'])\n    def _construct_channels(self, channels_config):\n        channel_types = {",
+        "detail": "tools.nv-driver-locator.nv-driver-locator",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.nv-driver-locator",
+        "description": "tools.nv-driver-locator.nv-driver-locator",
+        "peekOfCode": "def parse_args():\n    parser = argparse.ArgumentParser(\n        description=\"Watches for GeForce experience driver updates for \"\n        \"configured systems\",\n        formatter_class=argparse.ArgumentDefaultsHelpFormatter)\n    parser.add_argument(\"-c\", \"--config\",\n                        default=\"/etc/nv-driver-locator.json\",\n                        help=\"config file location\")\n    args = parser.parse_args()\n    return args",
+        "detail": "tools.nv-driver-locator.nv-driver-locator",
+        "documentation": {}
+    },
+    {
+        "label": "setup_logger",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.nv-driver-locator",
+        "description": "tools.nv-driver-locator.nv-driver-locator",
+        "peekOfCode": "def setup_logger(name, verbosity):\n    logger = logging.getLogger(name)\n    logger.setLevel(verbosity)\n    handler = logging.StreamHandler()\n    handler.setLevel(verbosity)\n    handler.setFormatter(logging.Formatter('%(asctime)s '\n                                           '%(levelname)-8s '\n                                           '%(name)s: %(message)s',\n                                           '%Y-%m-%d %H:%M:%S'))\n    logger.addHandler(handler)",
+        "detail": "tools.nv-driver-locator.nv-driver-locator",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "tools.nv-driver-locator.nv-driver-locator",
+        "description": "tools.nv-driver-locator.nv-driver-locator",
+        "peekOfCode": "def main():\n    args = parse_args()\n    setup_logger(DriverLocator.__name__, logging.ERROR)\n    with open(args.config, 'r') as conf_file:\n        conf = json.load(conf_file)\n    ret = DriverLocator(conf).run()\n    sys.exit(ret)\nif __name__ == '__main__':\n    main()",
+        "detail": "tools.nv-driver-locator.nv-driver-locator",
+        "documentation": {}
+    },
+    {
+        "label": "HASH_DELIM",
+        "kind": 5,
+        "importPath": "tools.nv-driver-locator.nv-driver-locator",
+        "description": "tools.nv-driver-locator.nv-driver-locator",
+        "peekOfCode": "HASH_DELIM = b'\\x00'\nHASH = hashlib.sha256\nclass BaseDB(ABC):\n    @abstractmethod\n    def check_key(self, key):\n        pass\n    @abstractmethod\n    def set_key(self, key, value):\n        pass\nclass FileDB(BaseDB):",
+        "detail": "tools.nv-driver-locator.nv-driver-locator",
+        "documentation": {}
+    },
+    {
+        "label": "HASH",
+        "kind": 5,
+        "importPath": "tools.nv-driver-locator.nv-driver-locator",
+        "description": "tools.nv-driver-locator.nv-driver-locator",
+        "peekOfCode": "HASH = hashlib.sha256\nclass BaseDB(ABC):\n    @abstractmethod\n    def check_key(self, key):\n        pass\n    @abstractmethod\n    def set_key(self, key, value):\n        pass\nclass FileDB(BaseDB):\n    def __init__(self, workdir):",
+        "detail": "tools.nv-driver-locator.nv-driver-locator",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.add_driver",
+        "description": "tools.readme-autogen.add_driver",
+        "peekOfCode": "def parse_args():\n    def check_enum_arg(enum, value):\n        try:\n            return enum[value]\n        except KeyError:\n            raise argparse.ArgumentTypeError(\"%s is not valid option for %s\" % (repr(value), repr(enum.__name__)))\n    parser = argparse.ArgumentParser(\n        description=\"Adds new Nvidia driver into drivers.json file of \"\n        \"in your repo working copy\",\n        formatter_class=argparse.ArgumentDefaultsHelpFormatter)",
+        "detail": "tools.readme-autogen.add_driver",
+        "documentation": {}
+    },
+    {
+        "label": "posixpath_components",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.add_driver",
+        "description": "tools.readme-autogen.add_driver",
+        "peekOfCode": "def posixpath_components(path):\n    result = []\n    while True:\n        head, tail = posixpath.split(path)\n        if head == path:\n            break\n        result.append(tail)\n        path = head\n    result.reverse()\n    if result and not result[-1]:",
+        "detail": "tools.readme-autogen.add_driver",
+        "documentation": {}
+    },
+    {
+        "label": "validate_url",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.add_driver",
+        "description": "tools.readme-autogen.add_driver",
+        "peekOfCode": "def validate_url(url):\n    req = urllib.request.Request(url, method=\"HEAD\")\n    with urllib.request.urlopen(req, timeout=10) as resp:\n        if int(resp.headers['Content-Length']) < 50 * 2**20:\n            raise Exception(\"Bad driver length: %s\" % resp.headers['Content-Length'])\ndef validate_patch(patch64, patch32):\n    wc_base = os.path.abspath(os.path.join(BASE_PATH, \"..\", \"..\", \"win\"))\n    p64_filepath = os.path.join(wc_base, patch64)\n    p32_filepath = os.path.join(wc_base, patch32)\n    if not os.path.exists(p64_filepath):",
+        "detail": "tools.readme-autogen.add_driver",
+        "documentation": {}
+    },
+    {
+        "label": "validate_patch",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.add_driver",
+        "description": "tools.readme-autogen.add_driver",
+        "peekOfCode": "def validate_patch(patch64, patch32):\n    wc_base = os.path.abspath(os.path.join(BASE_PATH, \"..\", \"..\", \"win\"))\n    p64_filepath = os.path.join(wc_base, patch64)\n    p32_filepath = os.path.join(wc_base, patch32)\n    if not os.path.exists(p64_filepath):\n        raise Exception(\"File %s not found!\" % p64_filepath)\n    if not os.path.exists(p32_filepath):\n        raise Exception(\"File %s not found!\" % p32_filepath)\n    if os.path.getsize(p64_filepath) == 0:\n        raise Exception(\"File %s empty!\" % p64_filepath)",
+        "detail": "tools.readme-autogen.add_driver",
+        "documentation": {}
+    },
+    {
+        "label": "validate_unique",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.add_driver",
+        "description": "tools.readme-autogen.add_driver",
+        "peekOfCode": "def validate_unique(drivers, new_driver, kf):\n    if find_driver(drivers, kf(new_driver), kf) is not None:\n        raise Exception(\"Duplicate driver!\")\ndef main():\n    args = parse_args()\n    if not args.url:\n        if args.os is OSKind.Linux:\n            url_tmpl = DRIVER_URL_TEMPLATE[(args.os, None, None, None)]\n        else:\n            url_tmpl = DRIVER_URL_TEMPLATE[(args.os,",
+        "detail": "tools.readme-autogen.add_driver",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.add_driver",
+        "description": "tools.readme-autogen.add_driver",
+        "peekOfCode": "def main():\n    args = parse_args()\n    if not args.url:\n        if args.os is OSKind.Linux:\n            url_tmpl = DRIVER_URL_TEMPLATE[(args.os, None, None, None)]\n        else:\n            url_tmpl = DRIVER_URL_TEMPLATE[(args.os,\n                                            args.product,\n                                            args.winseries,\n                                            args.variant)]",
+        "detail": "tools.readme-autogen.add_driver",
+        "documentation": {}
+    },
+    {
+        "label": "OSKind",
+        "kind": 6,
+        "importPath": "tools.readme-autogen.constants",
+        "description": "tools.readme-autogen.constants",
+        "peekOfCode": "class OSKind(Enum):\n    Linux = 'linux'\n    Windows = 'win'\n    def __str__(self):\n        return self.name\nclass Product(IntEnum):\n    GeForce = 10\n    Quadro = 20\n    def __str__(self):\n        return self.name",
+        "detail": "tools.readme-autogen.constants",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "tools.readme-autogen.constants",
+        "description": "tools.readme-autogen.constants",
+        "peekOfCode": "class Product(IntEnum):\n    GeForce = 10\n    Quadro = 20\n    def __str__(self):\n        return self.name\nclass WinSeries(IntEnum):\n    win10 = 10\n    win7 = 20\n    ws2012 = 30\n    ws2016 = 40",
+        "detail": "tools.readme-autogen.constants",
+        "documentation": {}
+    },
+    {
+        "label": "WinSeries",
+        "kind": 6,
+        "importPath": "tools.readme-autogen.constants",
+        "description": "tools.readme-autogen.constants",
+        "peekOfCode": "class WinSeries(IntEnum):\n    win10 = 10\n    win7 = 20\n    ws2012 = 30\n    ws2016 = 40\n    def __str__(self):\n        return self.name\nBASE_PATH = os.path.dirname(os.path.abspath(__file__))\nTEMPLATE_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)),\n                             \"templates\")",
+        "detail": "tools.readme-autogen.constants",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_PATH",
+        "kind": 5,
+        "importPath": "tools.readme-autogen.constants",
+        "description": "tools.readme-autogen.constants",
+        "peekOfCode": "BASE_PATH = os.path.dirname(os.path.abspath(__file__))\nTEMPLATE_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)),\n                             \"templates\")\nDATAFILE_PATH = os.path.join(BASE_PATH,\n                             \"..\", \"..\", \"drivers.json\")\nLINUX_README_PATH = os.path.join(BASE_PATH,\n                                 \"..\", \"..\", \"README.md\")\nWINDOWS_README_PATH = os.path.join(BASE_PATH,\n                                 \"..\", \"..\", \"win\", \"README.md\")\nENCODING='utf-8'",
+        "detail": "tools.readme-autogen.constants",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATE_PATH",
+        "kind": 5,
+        "importPath": "tools.readme-autogen.constants",
+        "description": "tools.readme-autogen.constants",
+        "peekOfCode": "TEMPLATE_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)),\n                             \"templates\")\nDATAFILE_PATH = os.path.join(BASE_PATH,\n                             \"..\", \"..\", \"drivers.json\")\nLINUX_README_PATH = os.path.join(BASE_PATH,\n                                 \"..\", \"..\", \"README.md\")\nWINDOWS_README_PATH = os.path.join(BASE_PATH,\n                                 \"..\", \"..\", \"win\", \"README.md\")\nENCODING='utf-8'\nDRIVER_URL_TEMPLATE = {",
+        "detail": "tools.readme-autogen.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DATAFILE_PATH",
+        "kind": 5,
+        "importPath": "tools.readme-autogen.constants",
+        "description": "tools.readme-autogen.constants",
+        "peekOfCode": "DATAFILE_PATH = os.path.join(BASE_PATH,\n                             \"..\", \"..\", \"drivers.json\")\nLINUX_README_PATH = os.path.join(BASE_PATH,\n                                 \"..\", \"..\", \"README.md\")\nWINDOWS_README_PATH = os.path.join(BASE_PATH,\n                                 \"..\", \"..\", \"win\", \"README.md\")\nENCODING='utf-8'\nDRIVER_URL_TEMPLATE = {\n    (OSKind.Linux, None, None, None):                                       [\"https://international.download.nvidia.com/XFree86/Linux-x86_64/$version/NVIDIA-Linux-x86_64-$version.run\",\n                                                                             \"https://international.download.nvidia.com/tesla/$version/NVIDIA-Linux-x86_64-$version.run\"],",
+        "detail": "tools.readme-autogen.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LINUX_README_PATH",
+        "kind": 5,
+        "importPath": "tools.readme-autogen.constants",
+        "description": "tools.readme-autogen.constants",
+        "peekOfCode": "LINUX_README_PATH = os.path.join(BASE_PATH,\n                                 \"..\", \"..\", \"README.md\")\nWINDOWS_README_PATH = os.path.join(BASE_PATH,\n                                 \"..\", \"..\", \"win\", \"README.md\")\nENCODING='utf-8'\nDRIVER_URL_TEMPLATE = {\n    (OSKind.Linux, None, None, None):                                       [\"https://international.download.nvidia.com/XFree86/Linux-x86_64/$version/NVIDIA-Linux-x86_64-$version.run\",\n                                                                             \"https://international.download.nvidia.com/tesla/$version/NVIDIA-Linux-x86_64-$version.run\"],\n    (OSKind.Windows, Product.GeForce, WinSeries.win10, ''):                 \"https://international.download.nvidia.com/Windows/$version/$version-desktop-win10-win11-64bit-international-whql.exe\",\n    (OSKind.Windows, Product.GeForce, WinSeries.win10, 'DCH'):              [\"https://international.download.nvidia.com/Windows/$version/$version-desktop-win10-win11-64bit-international-dch-whql.exe\",",
+        "detail": "tools.readme-autogen.constants",
+        "documentation": {}
+    },
+    {
+        "label": "WINDOWS_README_PATH",
+        "kind": 5,
+        "importPath": "tools.readme-autogen.constants",
+        "description": "tools.readme-autogen.constants",
+        "peekOfCode": "WINDOWS_README_PATH = os.path.join(BASE_PATH,\n                                 \"..\", \"..\", \"win\", \"README.md\")\nENCODING='utf-8'\nDRIVER_URL_TEMPLATE = {\n    (OSKind.Linux, None, None, None):                                       [\"https://international.download.nvidia.com/XFree86/Linux-x86_64/$version/NVIDIA-Linux-x86_64-$version.run\",\n                                                                             \"https://international.download.nvidia.com/tesla/$version/NVIDIA-Linux-x86_64-$version.run\"],\n    (OSKind.Windows, Product.GeForce, WinSeries.win10, ''):                 \"https://international.download.nvidia.com/Windows/$version/$version-desktop-win10-win11-64bit-international-whql.exe\",\n    (OSKind.Windows, Product.GeForce, WinSeries.win10, 'DCH'):              [\"https://international.download.nvidia.com/Windows/$version/$version-desktop-win10-win11-64bit-international-dch-whql.exe\",\n                                                                             \"https://international.download.nvidia.com/tesla/$version/$version-data-center-tesla-desktop-win10-win11-64bit-dch-international.exe\"],\n    (OSKind.Windows, Product.GeForce, WinSeries.win10, 'DCH (Hotfix)'):     \"https://international.download.nvidia.com/Windows/${version}hf/$version-desktop-win10-win11-64bit-international-dch-hf.exe\",",
+        "detail": "tools.readme-autogen.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DRIVER_URL_TEMPLATE",
+        "kind": 5,
+        "importPath": "tools.readme-autogen.constants",
+        "description": "tools.readme-autogen.constants",
+        "peekOfCode": "DRIVER_URL_TEMPLATE = {\n    (OSKind.Linux, None, None, None):                                       [\"https://international.download.nvidia.com/XFree86/Linux-x86_64/$version/NVIDIA-Linux-x86_64-$version.run\",\n                                                                             \"https://international.download.nvidia.com/tesla/$version/NVIDIA-Linux-x86_64-$version.run\"],\n    (OSKind.Windows, Product.GeForce, WinSeries.win10, ''):                 \"https://international.download.nvidia.com/Windows/$version/$version-desktop-win10-win11-64bit-international-whql.exe\",\n    (OSKind.Windows, Product.GeForce, WinSeries.win10, 'DCH'):              [\"https://international.download.nvidia.com/Windows/$version/$version-desktop-win10-win11-64bit-international-dch-whql.exe\",\n                                                                             \"https://international.download.nvidia.com/tesla/$version/$version-data-center-tesla-desktop-win10-win11-64bit-dch-international.exe\"],\n    (OSKind.Windows, Product.GeForce, WinSeries.win10, 'DCH (Hotfix)'):     \"https://international.download.nvidia.com/Windows/${version}hf/$version-desktop-win10-win11-64bit-international-dch-hf.exe\",\n    (OSKind.Windows, Product.GeForce, WinSeries.win10, 'DCH (Notebook Hotfix)'):     \"https://international.download.nvidia.com/Windows/${version}hf/$version-desktop-notebook-win10-win11-64bit-international-dch.hf.exe\",\n    (OSKind.Windows, Product.GeForce, WinSeries.win10, 'Studio Driver'):    \"https://international.download.nvidia.com/Windows/$version/$version-desktop-win10-win11-64bit-international-nsd-dch-whql.exe\",\n    (OSKind.Windows, Product.GeForce, WinSeries.win10, 'Vulkan Beta'):      \"\",",
+        "detail": "tools.readme-autogen.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DRIVER_DIR_PREFIX",
+        "kind": 5,
+        "importPath": "tools.readme-autogen.constants",
+        "description": "tools.readme-autogen.constants",
+        "peekOfCode": "DRIVER_DIR_PREFIX = {\n    (Product.GeForce, ''): '',\n    (Product.GeForce, 'DCH'): '',\n    (Product.GeForce, 'DCH (Hotfix)'): '',\n    (Product.GeForce, 'DCH (Notebook Hotfix)'): '',\n    (Product.GeForce, 'Studio Driver'): 'nsd_',\n    (Product.GeForce, 'Vulkan Beta'): '',\n    (Product.Quadro, ''): 'quadro_',\n}\nREPO_BASE = \"https://raw.githubusercontent.com/keylase/nvidia-patch/master/win/\"",
+        "detail": "tools.readme-autogen.constants",
+        "documentation": {}
+    },
+    {
+        "label": "REPO_BASE",
+        "kind": 5,
+        "importPath": "tools.readme-autogen.constants",
+        "description": "tools.readme-autogen.constants",
+        "peekOfCode": "REPO_BASE = \"https://raw.githubusercontent.com/keylase/nvidia-patch/master/win/\"",
+        "detail": "tools.readme-autogen.constants",
+        "documentation": {}
+    },
+    {
+        "label": "posixpath_components",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.migrate_patches",
+        "description": "tools.readme-autogen.migrate_patches",
+        "peekOfCode": "def posixpath_components(path):\n    result = []\n    while True:\n        head, tail = posixpath.split(path)\n        if head == path:\n            break\n        result.append(tail)\n        path = head\n    result.reverse()\n    if result and not result[-1]:",
+        "detail": "tools.readme-autogen.migrate_patches",
+        "documentation": {}
+    },
+    {
+        "label": "validate_patch",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.migrate_patches",
+        "description": "tools.readme-autogen.migrate_patches",
+        "peekOfCode": "def validate_patch(patch64, patch32):\n    wc_base = os.path.abspath(os.path.join(BASE_PATH, \"..\", \"..\"))\n    base_parse = urllib.parse.urlsplit(REPO_BASE, scheme='http')\n    p64_parse = urllib.parse.urlsplit(patch64, scheme='http')\n    p32_parse = urllib.parse.urlsplit(patch32, scheme='http')\n    if not (p64_parse[0] == p32_parse[0] == base_parse[0]):\n        raise Exception(\"URL scheme doesn't match repo base URL scheme\")\n    if not (p64_parse[1] == p32_parse[1] == base_parse[1]):\n        raise Exception(\"URL network location doesn't match repo base URL network location\")\n    if posixpath.commonpath((base_parse[2], p64_parse[2], p32_parse[2])) != \\",
+        "detail": "tools.readme-autogen.migrate_patches",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.migrate_patches",
+        "description": "tools.readme-autogen.migrate_patches",
+        "peekOfCode": "def main():\n    with open(DATAFILE_PATH) as data_file:\n        data = json.load(data_file)\n    drivers = data[OSKind.Linux.value]['x86_64']['drivers']\n    for d in drivers:\n        d['nvenc_patch'] = True\n        d['nvfbc_patch'] = False\n        if 'driver_url' in d:\n            driver_url = d['driver_url']\n            del d['driver_url']",
+        "detail": "tools.readme-autogen.migrate_patches",
+        "documentation": {}
+    },
+    {
+        "label": "linux_readme",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.readme_autogen",
+        "description": "tools.readme-autogen.readme_autogen",
+        "peekOfCode": "def linux_readme(data):\n    master_tmpl = template('linux_readme_master.tmpl')\n    row_tmpl = template('linux_driver_row.tmpl', True)\n    link_tmpl = template('markdown_link.tmpl', True)\n    md_true = template('markdown_true.tmpl', True).substitute()\n    md_false = template('markdown_false.tmpl', True).substitute()\n    drivers = sorted(data['drivers'], key=linux_driver_key)\n    def row_gen():\n        for drv in drivers:\n            driver_url = drv.get('driver_url')",
+        "detail": "tools.readme-autogen.readme_autogen",
+        "documentation": {}
+    },
+    {
+        "label": "windows_driver_rows",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.readme_autogen",
+        "description": "tools.readme-autogen.readme_autogen",
+        "peekOfCode": "def windows_driver_rows(drivers, repo_base):\n    driver_row_tmpl = template('windows_driver_row.tmpl', True)\n    markdown_link_tmpl = template('markdown_link.tmpl', True)\n    def row_gen():\n        for d in drivers:\n            product = PRODUCT_LABELS[Product[d['product']]]\n            variant = d.get('variant')\n            version_variant = d['version']\n            version_variant += (\" \" + variant) if variant else ''\n            patch64_url = repo_base + d.get('patch64_url')",
+        "detail": "tools.readme-autogen.readme_autogen",
+        "documentation": {}
+    },
+    {
+        "label": "windows_product_sections",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.readme_autogen",
+        "description": "tools.readme-autogen.readme_autogen",
+        "peekOfCode": "def windows_product_sections(drivers, repo_base):\n    product_section_tmpl = template('windows_product_section.tmpl')\n    def section_gen():\n        for k, g in groupby(drivers, lambda d: Product[d['product']]):\n            driver_rows = windows_driver_rows(g, repo_base)\n            yield product_section_tmpl.substitute(driver_rows=driver_rows)\n    return '\\n\\n'.join(section_gen())\ndef windows_driver_table(drivers, repo_base):\n    os_section_tmpl = template('windows_os_section.tmpl', True)\n    def section_gen():",
+        "detail": "tools.readme-autogen.readme_autogen",
+        "documentation": {}
+    },
+    {
+        "label": "windows_driver_table",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.readme_autogen",
+        "description": "tools.readme-autogen.readme_autogen",
+        "peekOfCode": "def windows_driver_table(drivers, repo_base):\n    os_section_tmpl = template('windows_os_section.tmpl', True)\n    def section_gen():\n        for k, g in groupby(drivers, lambda d: WinSeries[d['os']]):\n            os = WIN_SERIES_LABELS[k]\n            product_sections = windows_product_sections(g, repo_base)\n            yield os_section_tmpl.substitute(os=os,\n                                             product_sections=product_sections)\n    return '\\n\\n'.join(section_gen())\ndef windows_readme(data, repo_base):",
+        "detail": "tools.readme-autogen.readme_autogen",
+        "documentation": {}
+    },
+    {
+        "label": "windows_readme",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.readme_autogen",
+        "description": "tools.readme-autogen.readme_autogen",
+        "peekOfCode": "def windows_readme(data, repo_base):\n    master_tmpl = template('windows_readme_master.tmpl')\n    drivers = sorted(data['drivers'], key=windows_driver_key)\n    version_table = windows_driver_table(drivers, repo_base)\n    geforce_drivers = filter(lambda d: Product[d['product']] is Product.GeForce, drivers)\n    quadro_drivers = filter(lambda d: Product[d['product']] is Product.Quadro, drivers)\n    latest_geforce_version = max(geforce_drivers, default='xxx.xx',\n                                 key=lambda d: version_key_fun(d['version']))['version']\n    latest_quadro_version = max(quadro_drivers, default='xxx.xx',\n                                key=lambda d: version_key_fun(d['version']))['version']",
+        "detail": "tools.readme-autogen.readme_autogen",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.readme_autogen",
+        "description": "tools.readme-autogen.readme_autogen",
+        "peekOfCode": "def parse_args():\n    parser = argparse.ArgumentParser(\n        description=\"Generates markdown pages from repo data\",\n        formatter_class=argparse.ArgumentDefaultsHelpFormatter)\n    parser.add_argument(\"-R\", \"--repo-root\",\n                        help=\"repository web root URL\",\n                        default=REPO_BASE)\n    args = parser.parse_args()\n    return args\ndef main():",
+        "detail": "tools.readme-autogen.readme_autogen",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.readme_autogen",
+        "description": "tools.readme-autogen.readme_autogen",
+        "peekOfCode": "def main():\n    args = parse_args()\n    with open(DATAFILE_PATH) as data_file:\n        data = json.load(data_file)\n    res = linux_readme(data['linux']['x86_64'])\n    with open(LINUX_README_PATH, 'w', encoding=ENCODING) as out:\n        out.write(res)\n    res = windows_readme(data['win']['x86_64'], args.repo_root)\n    with open(WINDOWS_README_PATH, 'w', encoding=ENCODING) as out:\n        out.write(res)",
+        "detail": "tools.readme-autogen.readme_autogen",
+        "documentation": {}
+    },
+    {
+        "label": "PRODUCT_LABELS",
+        "kind": 5,
+        "importPath": "tools.readme-autogen.readme_autogen",
+        "description": "tools.readme-autogen.readme_autogen",
+        "peekOfCode": "PRODUCT_LABELS = {\n    Product.GeForce: \"GeForce\",\n    Product.Quadro: \"Quadro\",\n}\nWIN_SERIES_LABELS = {\n    WinSeries.win10: \"Windows 10, Windows 11\",\n    WinSeries.win7: \"Windows 7, Windows 8, Windows 8.1\",\n    WinSeries.ws2012: \"Windows Server 2008R2, 2012, 2012R2\",\n    WinSeries.ws2016: \"Windows Server 2016, 2019\",\n}",
+        "detail": "tools.readme-autogen.readme_autogen",
+        "documentation": {}
+    },
+    {
+        "label": "WIN_SERIES_LABELS",
+        "kind": 5,
+        "importPath": "tools.readme-autogen.readme_autogen",
+        "description": "tools.readme-autogen.readme_autogen",
+        "peekOfCode": "WIN_SERIES_LABELS = {\n    WinSeries.win10: \"Windows 10, Windows 11\",\n    WinSeries.win7: \"Windows 7, Windows 8, Windows 8.1\",\n    WinSeries.ws2012: \"Windows Server 2008R2, 2012, 2012R2\",\n    WinSeries.ws2016: \"Windows Server 2016, 2019\",\n}\ndef linux_readme(data):\n    master_tmpl = template('linux_readme_master.tmpl')\n    row_tmpl = template('linux_driver_row.tmpl', True)\n    link_tmpl = template('markdown_link.tmpl', True)",
+        "detail": "tools.readme-autogen.readme_autogen",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.utils",
+        "description": "tools.readme-autogen.utils",
+        "peekOfCode": "def template(filename, strip_newlines=False):\n    filename = os.path.join(TEMPLATE_PATH, filename)\n    with open(filename, encoding=ENCODING) as f:\n        text = f.read()\n        if strip_newlines:\n            text = text.rstrip('\\r\\n')\n        t = Template(text)\n    return t\ndef version_key_fun(ver):\n    return tuple(map(int, ver.split('.')))",
+        "detail": "tools.readme-autogen.utils",
+        "documentation": {}
+    },
+    {
+        "label": "version_key_fun",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.utils",
+        "description": "tools.readme-autogen.utils",
+        "peekOfCode": "def version_key_fun(ver):\n    return tuple(map(int, ver.split('.')))\ndef find_driver(drivers, key, keyfun, low=0, hi=None):\n    \"\"\" Bisect search on sorted linux drivers list \"\"\"\n    if hi is None:\n        hi = len(drivers)\n    L = hi - low\n    if L == 0:\n        return None\n    elif L == 1:",
+        "detail": "tools.readme-autogen.utils",
+        "documentation": {}
+    },
+    {
+        "label": "find_driver",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.utils",
+        "description": "tools.readme-autogen.utils",
+        "peekOfCode": "def find_driver(drivers, key, keyfun, low=0, hi=None):\n    \"\"\" Bisect search on sorted linux drivers list \"\"\"\n    if hi is None:\n        hi = len(drivers)\n    L = hi - low\n    if L == 0:\n        return None\n    elif L == 1:\n        return drivers[low] if keyfun(drivers[low]) == key else None\n    else:",
+        "detail": "tools.readme-autogen.utils",
+        "documentation": {}
+    },
+    {
+        "label": "linux_driver_key",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.utils",
+        "description": "tools.readme-autogen.utils",
+        "peekOfCode": "def linux_driver_key(driver):\n    return version_key_fun(driver['version'])\ndef windows_driver_key(driver):\n    return ((WinSeries[driver['os']], Product[driver['product']]) +\n            version_key_fun(driver['version']) +\n            (driver.get('variant'),))",
+        "detail": "tools.readme-autogen.utils",
+        "documentation": {}
+    },
+    {
+        "label": "windows_driver_key",
+        "kind": 2,
+        "importPath": "tools.readme-autogen.utils",
+        "description": "tools.readme-autogen.utils",
+        "peekOfCode": "def windows_driver_key(driver):\n    return ((WinSeries[driver['os']], Product[driver['product']]) +\n            version_key_fun(driver['version']) +\n            (driver.get('variant'),))",
+        "detail": "tools.readme-autogen.utils",
+        "documentation": {}
+    },
+    {
+        "label": "ByteDiffException",
+        "kind": 6,
+        "importPath": "win.tools.1337-diff.1337-diff",
+        "description": "win.tools.1337-diff.1337-diff",
+        "peekOfCode": "class ByteDiffException(Exception):\n    \"\"\" Base class for all exceptions \"\"\"\n    pass\nclass LengthMismatchException(ByteDiffException):\n    \"\"\" Throwed when length of input sequences do not match \"\"\"\n    pass\nclass DiffLimitException(ByteDiffException):\n    \"\"\" Throwed when difference limit hit \"\"\"\n    pass\ndef check_positive_int(value):",
+        "detail": "win.tools.1337-diff.1337-diff",
+        "documentation": {}
+    },
+    {
+        "label": "LengthMismatchException",
+        "kind": 6,
+        "importPath": "win.tools.1337-diff.1337-diff",
+        "description": "win.tools.1337-diff.1337-diff",
+        "peekOfCode": "class LengthMismatchException(ByteDiffException):\n    \"\"\" Throwed when length of input sequences do not match \"\"\"\n    pass\nclass DiffLimitException(ByteDiffException):\n    \"\"\" Throwed when difference limit hit \"\"\"\n    pass\ndef check_positive_int(value):\n    value = int(value)\n    if value <= 0:\n        raise argparse.ArgumentTypeError(",
+        "detail": "win.tools.1337-diff.1337-diff",
+        "documentation": {}
+    },
+    {
+        "label": "DiffLimitException",
+        "kind": 6,
+        "importPath": "win.tools.1337-diff.1337-diff",
+        "description": "win.tools.1337-diff.1337-diff",
+        "peekOfCode": "class DiffLimitException(ByteDiffException):\n    \"\"\" Throwed when difference limit hit \"\"\"\n    pass\ndef check_positive_int(value):\n    value = int(value)\n    if value <= 0:\n        raise argparse.ArgumentTypeError(\n            \"%s is an invalid positive number value\" % value)\n    return value\ndef parse_args():",
+        "detail": "win.tools.1337-diff.1337-diff",
+        "documentation": {}
+    },
+    {
+        "label": "check_positive_int",
+        "kind": 2,
+        "importPath": "win.tools.1337-diff.1337-diff",
+        "description": "win.tools.1337-diff.1337-diff",
+        "peekOfCode": "def check_positive_int(value):\n    value = int(value)\n    if value <= 0:\n        raise argparse.ArgumentTypeError(\n            \"%s is an invalid positive number value\" % value)\n    return value\ndef parse_args():\n    parser = argparse.ArgumentParser(\n        description=\"Make .1337 patch file from original and patched files\")\n    parser.add_argument(\"orig_file\",",
+        "detail": "win.tools.1337-diff.1337-diff",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "win.tools.1337-diff.1337-diff",
+        "description": "win.tools.1337-diff.1337-diff",
+        "peekOfCode": "def parse_args():\n    parser = argparse.ArgumentParser(\n        description=\"Make .1337 patch file from original and patched files\")\n    parser.add_argument(\"orig_file\",\n                        metavar=\"ORIG_FILE\",\n                        help=\"original file\")\n    parser.add_argument(\"patched_file\",\n                        metavar=\"PATCHED_FILE\",\n                        help=\"patched file\")\n    parser.add_argument(\"output_file\",",
+        "detail": "win.tools.1337-diff.1337-diff",
+        "documentation": {}
+    },
+    {
+        "label": "feed_chunks",
+        "kind": 2,
+        "importPath": "win.tools.1337-diff.1337-diff",
+        "description": "win.tools.1337-diff.1337-diff",
+        "peekOfCode": "def feed_chunks(f, chunk_size=4096):\n    \"\"\" Reads file-like object with chunks having up to `chunk_size` length \"\"\"\n    while True:\n        buf = f.read(chunk_size)\n        if not buf:\n            break\n        yield buf\ndef zip_files_bytes(left, right):\n    \"\"\" Iterate over two files, returning pair of bytes.\n    Throw LengthMismatch if file sizes is uneven. \"\"\"",
+        "detail": "win.tools.1337-diff.1337-diff",
+        "documentation": {}
+    },
+    {
+        "label": "zip_files_bytes",
+        "kind": 2,
+        "importPath": "win.tools.1337-diff.1337-diff",
+        "description": "win.tools.1337-diff.1337-diff",
+        "peekOfCode": "def zip_files_bytes(left, right):\n    \"\"\" Iterate over two files, returning pair of bytes.\n    Throw LengthMismatch if file sizes is uneven. \"\"\"\n    class EndMarker(object):\n        pass\n    end_marker = EndMarker()\n    left_iter = itertools.chain.from_iterable(\n        feed_chunks(left))\n    right_iter = itertools.chain.from_iterable(\n        feed_chunks(right))",
+        "detail": "win.tools.1337-diff.1337-diff",
+        "documentation": {}
+    },
+    {
+        "label": "diff",
+        "kind": 2,
+        "importPath": "win.tools.1337-diff.1337-diff",
+        "description": "win.tools.1337-diff.1337-diff",
+        "peekOfCode": "def diff(left, right, limit=None):\n    offset = 0\n    diff_count = 0\n    for a, b in zip_files_bytes(left, right):\n        if a != b:\n            diff_count += 1\n            if limit is not None and diff_count > limit:\n                raise DiffLimitException()\n            yield offset, a, b\n        offset += 1",
+        "detail": "win.tools.1337-diff.1337-diff",
+        "documentation": {}
+    },
+    {
+        "label": "compose_diff_file",
+        "kind": 2,
+        "importPath": "win.tools.1337-diff.1337-diff",
+        "description": "win.tools.1337-diff.1337-diff",
+        "peekOfCode": "def compose_diff_file(orig, patched, output, header, *,\n                      limit=None, offset_adjustment=True):\n    output.write(HEADER_FORMAT % (header.encode('latin-1'),))\n    adj = OFFSET_ADJUSTMENT if offset_adjustment else 0\n    for offset, a, b in diff(orig, patched, limit):\n        output.write(LINE_FORMAT % (offset + adj, a, b))\ndef main():\n    args = parse_args()\n    output_filename = args.output_file\n    if not output_filename:",
+        "detail": "win.tools.1337-diff.1337-diff",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "win.tools.1337-diff.1337-diff",
+        "description": "win.tools.1337-diff.1337-diff",
+        "peekOfCode": "def main():\n    args = parse_args()\n    output_filename = args.output_file\n    if not output_filename:\n        orig_bname = os.path.basename(args.orig_file)\n        before, _, after = orig_bname.rpartition('.')\n        orig_bname_noext = before if before else after\n        output_filename = orig_bname_noext + PATCH_EXT\n    header_filename = args.header_filename\n    if not header_filename:",
+        "detail": "win.tools.1337-diff.1337-diff",
+        "documentation": {}
+    },
+    {
+        "label": "PATCH_EXT",
+        "kind": 5,
+        "importPath": "win.tools.1337-diff.1337-diff",
+        "description": "win.tools.1337-diff.1337-diff",
+        "peekOfCode": "PATCH_EXT = \".1337\"\nCRLF = b\"\\x0d\\x0a\"\nHEADER_FORMAT = b\">%s\"\nLINE_FORMAT = CRLF + b\"%016X:%02X->%02X\"\nOFFSET_ADJUSTMENT = 0xC00\nclass ByteDiffException(Exception):\n    \"\"\" Base class for all exceptions \"\"\"\n    pass\nclass LengthMismatchException(ByteDiffException):\n    \"\"\" Throwed when length of input sequences do not match \"\"\"",
+        "detail": "win.tools.1337-diff.1337-diff",
+        "documentation": {}
+    },
+    {
+        "label": "CRLF",
+        "kind": 5,
+        "importPath": "win.tools.1337-diff.1337-diff",
+        "description": "win.tools.1337-diff.1337-diff",
+        "peekOfCode": "CRLF = b\"\\x0d\\x0a\"\nHEADER_FORMAT = b\">%s\"\nLINE_FORMAT = CRLF + b\"%016X:%02X->%02X\"\nOFFSET_ADJUSTMENT = 0xC00\nclass ByteDiffException(Exception):\n    \"\"\" Base class for all exceptions \"\"\"\n    pass\nclass LengthMismatchException(ByteDiffException):\n    \"\"\" Throwed when length of input sequences do not match \"\"\"\n    pass",
+        "detail": "win.tools.1337-diff.1337-diff",
+        "documentation": {}
+    },
+    {
+        "label": "HEADER_FORMAT",
+        "kind": 5,
+        "importPath": "win.tools.1337-diff.1337-diff",
+        "description": "win.tools.1337-diff.1337-diff",
+        "peekOfCode": "HEADER_FORMAT = b\">%s\"\nLINE_FORMAT = CRLF + b\"%016X:%02X->%02X\"\nOFFSET_ADJUSTMENT = 0xC00\nclass ByteDiffException(Exception):\n    \"\"\" Base class for all exceptions \"\"\"\n    pass\nclass LengthMismatchException(ByteDiffException):\n    \"\"\" Throwed when length of input sequences do not match \"\"\"\n    pass\nclass DiffLimitException(ByteDiffException):",
+        "detail": "win.tools.1337-diff.1337-diff",
+        "documentation": {}
+    },
+    {
+        "label": "LINE_FORMAT",
+        "kind": 5,
+        "importPath": "win.tools.1337-diff.1337-diff",
+        "description": "win.tools.1337-diff.1337-diff",
+        "peekOfCode": "LINE_FORMAT = CRLF + b\"%016X:%02X->%02X\"\nOFFSET_ADJUSTMENT = 0xC00\nclass ByteDiffException(Exception):\n    \"\"\" Base class for all exceptions \"\"\"\n    pass\nclass LengthMismatchException(ByteDiffException):\n    \"\"\" Throwed when length of input sequences do not match \"\"\"\n    pass\nclass DiffLimitException(ByteDiffException):\n    \"\"\" Throwed when difference limit hit \"\"\"",
+        "detail": "win.tools.1337-diff.1337-diff",
+        "documentation": {}
+    },
+    {
+        "label": "OFFSET_ADJUSTMENT",
+        "kind": 5,
+        "importPath": "win.tools.1337-diff.1337-diff",
+        "description": "win.tools.1337-diff.1337-diff",
+        "peekOfCode": "OFFSET_ADJUSTMENT = 0xC00\nclass ByteDiffException(Exception):\n    \"\"\" Base class for all exceptions \"\"\"\n    pass\nclass LengthMismatchException(ByteDiffException):\n    \"\"\" Throwed when length of input sequences do not match \"\"\"\n    pass\nclass DiffLimitException(ByteDiffException):\n    \"\"\" Throwed when difference limit hit \"\"\"\n    pass",
+        "detail": "win.tools.1337-diff.1337-diff",
+        "documentation": {}
+    },
+    {
+        "label": "ExtractException",
+        "kind": 6,
+        "importPath": "win.tools.autopatch.autopatch",
+        "description": "win.tools.autopatch.autopatch",
+        "peekOfCode": "class ExtractException(Exception):\n    pass\nclass PatternNotFoundException(Exception):\n    pass\nclass MultipleOccurencesException(Exception):\n    pass\nclass UnknownPlatformException(Exception):\n    pass\nclass InstallerNotFoundException(Exception):\n    pass",
+        "detail": "win.tools.autopatch.autopatch",
+        "documentation": {}
+    },
+    {
+        "label": "PatternNotFoundException",
+        "kind": 6,
+        "importPath": "win.tools.autopatch.autopatch",
+        "description": "win.tools.autopatch.autopatch",
+        "peekOfCode": "class PatternNotFoundException(Exception):\n    pass\nclass MultipleOccurencesException(Exception):\n    pass\nclass UnknownPlatformException(Exception):\n    pass\nclass InstallerNotFoundException(Exception):\n    pass\nclass ExtractedTarget:\n    name = None",
+        "detail": "win.tools.autopatch.autopatch",
+        "documentation": {}
+    },
+    {
+        "label": "MultipleOccurencesException",
+        "kind": 6,
+        "importPath": "win.tools.autopatch.autopatch",
+        "description": "win.tools.autopatch.autopatch",
+        "peekOfCode": "class MultipleOccurencesException(Exception):\n    pass\nclass UnknownPlatformException(Exception):\n    pass\nclass InstallerNotFoundException(Exception):\n    pass\nclass ExtractedTarget:\n    name = None\n    def __init__(self, archive, dst_dir, arch_tgt, *, sevenzip=\"7z\"):\n        self._archive = archive",
+        "detail": "win.tools.autopatch.autopatch",
+        "documentation": {}
+    },
+    {
+        "label": "UnknownPlatformException",
+        "kind": 6,
+        "importPath": "win.tools.autopatch.autopatch",
+        "description": "win.tools.autopatch.autopatch",
+        "peekOfCode": "class UnknownPlatformException(Exception):\n    pass\nclass InstallerNotFoundException(Exception):\n    pass\nclass ExtractedTarget:\n    name = None\n    def __init__(self, archive, dst_dir, arch_tgt, *, sevenzip=\"7z\"):\n        self._archive = archive\n        self._dst_dir = dst_dir\n        self._sevenzip = sevenzip",
+        "detail": "win.tools.autopatch.autopatch",
+        "documentation": {}
+    },
+    {
+        "label": "InstallerNotFoundException",
+        "kind": 6,
+        "importPath": "win.tools.autopatch.autopatch",
+        "description": "win.tools.autopatch.autopatch",
+        "peekOfCode": "class InstallerNotFoundException(Exception):\n    pass\nclass ExtractedTarget:\n    name = None\n    def __init__(self, archive, dst_dir, arch_tgt, *, sevenzip=\"7z\"):\n        self._archive = archive\n        self._dst_dir = dst_dir\n        self._sevenzip = sevenzip\n        self._arch_tgt = arch_tgt\n    def __enter__(self):",
+        "detail": "win.tools.autopatch.autopatch",
+        "documentation": {}
+    },
+    {
+        "label": "ExtractedTarget",
+        "kind": 6,
+        "importPath": "win.tools.autopatch.autopatch",
+        "description": "win.tools.autopatch.autopatch",
+        "peekOfCode": "class ExtractedTarget:\n    name = None\n    def __init__(self, archive, dst_dir, arch_tgt, *, sevenzip=\"7z\"):\n        self._archive = archive\n        self._dst_dir = dst_dir\n        self._sevenzip = sevenzip\n        self._arch_tgt = arch_tgt\n    def __enter__(self):\n        ret = subprocess.call([self._sevenzip,\n                               \"e\",",
+        "detail": "win.tools.autopatch.autopatch",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "win.tools.autopatch.autopatch",
+        "description": "win.tools.autopatch.autopatch",
+        "peekOfCode": "def parse_args():\n    parser = argparse.ArgumentParser(\n        description=\"Generates .1337 patch for Nvidia drivers for Windows\",\n        formatter_class=argparse.ArgumentDefaultsHelpFormatter)\n    parser.add_argument(\"installer_file\",\n                        nargs=\"+\",\n                        help=\"location of installer executable(s)\")\n    parser.add_argument(\"-7\", \"--7zip\",\n                        default=\"7z\",\n                        dest=\"sevenzip\",",
+        "detail": "win.tools.autopatch.autopatch",
+        "documentation": {}
+    },
+    {
+        "label": "expand",
+        "kind": 2,
+        "importPath": "win.tools.autopatch.autopatch",
+        "description": "win.tools.autopatch.autopatch",
+        "peekOfCode": "def expand(filename, *, sevenzip=\"7z\"):\n    proc = subprocess.Popen([sevenzip,\n                             \"x\",\n                             \"-so\",\n                             filename], stdout=subprocess.PIPE)\n    result = proc.communicate()[0]\n    if proc.returncode != 0:\n        raise ExtractException(\"Subprocess returned non-zero exit code.\")\n    return result\ndef extract_single_file(archive, filename, *, sevenzip=\"7z\"):",
+        "detail": "win.tools.autopatch.autopatch",
+        "documentation": {}
+    },
+    {
+        "label": "extract_single_file",
+        "kind": 2,
+        "importPath": "win.tools.autopatch.autopatch",
+        "description": "win.tools.autopatch.autopatch",
+        "peekOfCode": "def extract_single_file(archive, filename, *, sevenzip=\"7z\"):\n    proc = subprocess.Popen([sevenzip,\n                             \"e\",\n                             \"-so\",\n                             archive,\n                             filename], stdout=subprocess.PIPE)\n    result = proc.communicate()[0]\n    if proc.returncode != 0:\n        raise ExtractException(\"Subprocess returned non-zero exit code.\")\n    return result",
+        "detail": "win.tools.autopatch.autopatch",
+        "documentation": {}
+    },
+    {
+        "label": "make_patch",
+        "kind": 2,
+        "importPath": "win.tools.autopatch.autopatch",
+        "description": "win.tools.autopatch.autopatch",
+        "peekOfCode": "def make_patch(archive, *,\n               arch_tgt,\n               search,\n               replacement,\n               tmpdir,\n               sevenzip=\"7z\",\n               direct=False):\n    if direct:\n        with open(archive, 'rb') as fo:\n            f = fo.read()",
+        "detail": "win.tools.autopatch.autopatch",
+        "documentation": {}
+    },
+    {
+        "label": "identify_driver",
+        "kind": 2,
+        "importPath": "win.tools.autopatch.autopatch",
+        "description": "win.tools.autopatch.autopatch",
+        "peekOfCode": "def identify_driver(archive, *, sevenzip=\"7z\"):\n    manifest = extract_single_file(archive, \"setup.cfg\", sevenzip=sevenzip)\n    root = ET.fromstring(manifest)\n    version = root.attrib['version']\n    product_type = root.find('./properties/string[@name=\"ProductType\"]') \\\n        .attrib['value']\n    return version, product_type\ndef format_patch(diff, filename):\n    res = HEADER_FORMAT % filename.encode('utf-8')\n    for offset, left, right in diff:",
+        "detail": "win.tools.autopatch.autopatch",
+        "documentation": {}
+    },
+    {
+        "label": "format_patch",
+        "kind": 2,
+        "importPath": "win.tools.autopatch.autopatch",
+        "description": "win.tools.autopatch.autopatch",
+        "peekOfCode": "def format_patch(diff, filename):\n    res = HEADER_FORMAT % filename.encode('utf-8')\n    for offset, left, right in diff:\n        res += LINE_FORMAT % (offset + OFFSET_ADJUSTMENT, left, right)\n    return res\ndef patch_flow(installer_file, search, replacement, target, target_name, patch_name, *,\n               tempdir, direct=False, stdout=False, sevenzip=\"7z\"):\n    search = unhexlify(search)\n    replacement = unhexlify(replacement)\n    assert len(search) == len(replacement), \"len() of search and replacement is not equal\"",
+        "detail": "win.tools.autopatch.autopatch",
+        "documentation": {}
+    },
+    {
+        "label": "patch_flow",
+        "kind": 2,
+        "importPath": "win.tools.autopatch.autopatch",
+        "description": "win.tools.autopatch.autopatch",
+        "peekOfCode": "def patch_flow(installer_file, search, replacement, target, target_name, patch_name, *,\n               tempdir, direct=False, stdout=False, sevenzip=\"7z\"):\n    search = unhexlify(search)\n    replacement = unhexlify(replacement)\n    assert len(search) == len(replacement), \"len() of search and replacement is not equal\"\n    # Check if installer file exists or try to download\n    print(f\"Search for installer file `{installer_file}`...\")\n    if not os.path.isfile(installer_file):\n        print(\"Installer file is not a file...\")\n        if not installer_file.startswith(\"http\"):",
+        "detail": "win.tools.autopatch.autopatch",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "win.tools.autopatch.autopatch",
+        "description": "win.tools.autopatch.autopatch",
+        "peekOfCode": "def main():\n    args = parse_args()\n    if args.direct:\n        combinations = zip(args.installer_file, args.search, args.replacement,\n                           args.target, args.target_name, args.patch_name)\n    else:\n        base_params = zip(args.search, args.replacement, args.target, args.target_name, args.patch_name)\n        combinations = ((l,) + r for l, r in itertools.product(args.installer_file, base_params))\n    with tempfile.TemporaryDirectory() as tempdir:\n        print(f\"Using tempdir `{tempdir}`\")",
+        "detail": "win.tools.autopatch.autopatch",
+        "documentation": {}
+    },
+    {
+        "label": "CRLF",
+        "kind": 5,
+        "importPath": "win.tools.autopatch.autopatch",
+        "description": "win.tools.autopatch.autopatch",
+        "peekOfCode": "CRLF = b\"\\x0d\\x0a\"\nHEADER_FORMAT = b\">%s\"\nLINE_FORMAT = CRLF + b\"%016X:%02X->%02X\"\nOFFSET_ADJUSTMENT = 0xC00  # shift specific to x64dbg .1337 format\ndef parse_args():\n    parser = argparse.ArgumentParser(\n        description=\"Generates .1337 patch for Nvidia drivers for Windows\",\n        formatter_class=argparse.ArgumentDefaultsHelpFormatter)\n    parser.add_argument(\"installer_file\",\n                        nargs=\"+\",",
+        "detail": "win.tools.autopatch.autopatch",
+        "documentation": {}
+    },
+    {
+        "label": "HEADER_FORMAT",
+        "kind": 5,
+        "importPath": "win.tools.autopatch.autopatch",
+        "description": "win.tools.autopatch.autopatch",
+        "peekOfCode": "HEADER_FORMAT = b\">%s\"\nLINE_FORMAT = CRLF + b\"%016X:%02X->%02X\"\nOFFSET_ADJUSTMENT = 0xC00  # shift specific to x64dbg .1337 format\ndef parse_args():\n    parser = argparse.ArgumentParser(\n        description=\"Generates .1337 patch for Nvidia drivers for Windows\",\n        formatter_class=argparse.ArgumentDefaultsHelpFormatter)\n    parser.add_argument(\"installer_file\",\n                        nargs=\"+\",\n                        help=\"location of installer executable(s)\")",
+        "detail": "win.tools.autopatch.autopatch",
+        "documentation": {}
+    },
+    {
+        "label": "LINE_FORMAT",
+        "kind": 5,
+        "importPath": "win.tools.autopatch.autopatch",
+        "description": "win.tools.autopatch.autopatch",
+        "peekOfCode": "LINE_FORMAT = CRLF + b\"%016X:%02X->%02X\"\nOFFSET_ADJUSTMENT = 0xC00  # shift specific to x64dbg .1337 format\ndef parse_args():\n    parser = argparse.ArgumentParser(\n        description=\"Generates .1337 patch for Nvidia drivers for Windows\",\n        formatter_class=argparse.ArgumentDefaultsHelpFormatter)\n    parser.add_argument(\"installer_file\",\n                        nargs=\"+\",\n                        help=\"location of installer executable(s)\")\n    parser.add_argument(\"-7\", \"--7zip\",",
+        "detail": "win.tools.autopatch.autopatch",
+        "documentation": {}
+    },
+    {
+        "label": "OFFSET_ADJUSTMENT",
+        "kind": 5,
+        "importPath": "win.tools.autopatch.autopatch",
+        "description": "win.tools.autopatch.autopatch",
+        "peekOfCode": "OFFSET_ADJUSTMENT = 0xC00  # shift specific to x64dbg .1337 format\ndef parse_args():\n    parser = argparse.ArgumentParser(\n        description=\"Generates .1337 patch for Nvidia drivers for Windows\",\n        formatter_class=argparse.ArgumentDefaultsHelpFormatter)\n    parser.add_argument(\"installer_file\",\n                        nargs=\"+\",\n                        help=\"location of installer executable(s)\")\n    parser.add_argument(\"-7\", \"--7zip\",\n                        default=\"7z\",",
+        "detail": "win.tools.autopatch.autopatch",
+        "documentation": {}
+    }
+]
